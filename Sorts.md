@@ -1,5 +1,5 @@
 # Insertion Sort 
-Author: Ilgim Altay Acar
+Author: Furkan
 
 Bu dosya [ Insertion Sort Projesinin ](https://academy.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje) çözümünü içermektedir.
 
