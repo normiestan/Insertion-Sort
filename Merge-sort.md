@@ -1,5 +1,5 @@
 # Merge Sort 
-Author: Ilgim Altay Acar
+Author: Furkan
 
 Bu dosya [ Merge Sort Projesinin ](https://academy.patika.dev/courses/veri-yapilari-ve-algoritmalar/merge-sort-proje) çözümünü içermektedir.
 
