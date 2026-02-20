@@ -1,2 +1,2 @@
-# Insertion-Sort
-Bu dosya Insertion Sort Projesinin çözümünü içermektedir.
+# Sort-Hands-on-Project
+Patika dev insertion sort and selection sort hands-on project
