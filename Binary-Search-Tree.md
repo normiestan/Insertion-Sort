@@ -1,5 +1,5 @@
 # Binary Search Tree 
-Author: Ilgim Altay Acar
+Author: Furkan
 
 Bu dosya [ Binary Search Treenin ](https://academy.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje) çözümünü içermektedir.
 
